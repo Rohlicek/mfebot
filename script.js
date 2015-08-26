@@ -120,6 +120,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://dl.dropboxusercontent.com/s/wwc10qf7s5q6j09/mfebot2.js", extend);
+    $.getScript("https://raw.githubusercontent.com/Rohlicek/mfebot/master/soraka.js", extend);
 
 }).call(this);
